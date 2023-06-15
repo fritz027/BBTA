@@ -1,0 +1,110 @@
+[
+  {
+    "code": "VICS",
+    "description": "Vicious Trial Race"
+  },
+  {
+    "code": "NOVA",
+    "description": "Novato Trial Race"
+  },
+  {
+    "code": "BARR",
+    "description": "Barrier Trial Race"
+  },
+  {
+    "code": "2YO",
+    "description": "2 Year Old Macodeen Race"
+  },
+  {
+    "code": "3YOM",
+    "description": "3 Year Old Macodeen Race"
+  },
+  {
+    "code": "3YAM",
+    "description": "3 Year Old and Above Macodeen Race"
+  },
+  {
+    "code": "RS5",
+    "description": "Rating Based Class 5 (5)"
+  },
+  {
+    "code": "RS6-10",
+    "description": "Rating Based Class 5 (6-10)"
+  },
+  {
+    "code": "RS11-15",
+    "description": "Rating Based Class 5 (11-15)"
+  },
+  {
+    "code": "RS16-21",
+    "description": "Rating Based Class 5 (16-21)"
+  },
+  {
+    "code": "RS22-27",
+    "description": "Rating Based Class 4 (22-27)"
+  },
+  {
+    "code": "RS28-33",
+    "description": "Rating Based Class 4 (28-33)"
+  },
+  {
+    "code": "RS34-38",
+    "description": "Rating Based Class 4 (34-38)"
+  },
+  {
+    "code": "RS49-54",
+    "description": "Rating Based Class 3 (49-54)"
+  },
+  {
+    "code": "RS55-60",
+    "description": "Rating Based Class 3 (55-60)"
+  },
+  {
+    "code": "RS61-66",
+    "description": "Rating Based Class 2 (61-66)"
+  },
+  {
+    "code": "RS67-72",
+    "description": "Rating Based Class 2 (67-72)"
+  },
+  {
+    "code": "CR23",
+    "description": "Condition Race 23"
+  },
+  {
+    "code": "CR22",
+    "description": "Condition Race 22"
+  },
+  {
+    "code": "CR21",
+    "description": "Condition Race 21"
+  },
+  {
+    "code": "CR20",
+    "description": "Condition Race 20"
+  },
+  {
+    "code": "CR19",
+    "description": "Condition Race 19"
+  },
+  {
+    "code": "CR18",
+    "description": "Condition Race 18"
+  },
+  {
+    "code": "CR17",
+    "description": "Condition Race 17"
+  },
+  {
+    "code": "CR16",
+    "description": "Condition Race 16"
+  },
+  {
+    "code": "CR15",
+    "description": "Condition Race 15"
+  },
+  {
+    "code": "CR10M",
+    "description": "Condition Race 10 Merged"
+  }
+]
